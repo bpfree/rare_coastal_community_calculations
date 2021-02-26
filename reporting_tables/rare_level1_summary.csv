@@ -1,0 +1,163 @@
+"","iso3","lvl1_typ","lvl1_nm","count"
+"1","BRA","State","Alagoas",29
+"2","BRA","State","Amapá",7
+"3","BRA","State","Bahia",113
+"4","BRA","State","Ceará",79
+"5","BRA","State","Espírito Santo",45
+"6","BRA","State","Maranhão",40
+"7","BRA","State","Pará",31
+"8","BRA","State","Paraíba",20
+"9","BRA","State","Paraná",15
+"10","BRA","State","Pernambuco",34
+"11","BRA","State","Piauí",4
+"12","BRA","State","Rio de Janeiro",108
+"13","BRA","State","Rio Grande do Norte",37
+"14","BRA","State","Rio Grande do Sul",83
+"15","BRA","State","Santa Catarina",79
+"16","BRA","State","São Paulo",37
+"17","BRA","State","Sergipe",18
+"18","FSM","State","Chuuk",1
+"19","FSM","State","Kosrae",1
+"20","FSM","State","Pohnpei",1
+"21","FSM","State","Yap",1
+"22","GTM","Department","Izabal",5
+"23","HND","Department","Atlantida",112
+"24","HND","Department","Colon",45
+"25","HND","Department","Cortes",65
+"26","HND","Department","Gracias a Dios",47
+"27","HND","Department","Islas de La Bahia",23
+"28","HND","Department",NA,1
+"29","IDN","Province","Aceh",3766
+"30","IDN","Province","Bali",526
+"31","IDN","Province","Banten",595
+"32","IDN","Province","Bengkulu",723
+"33","IDN","Province","Daerah Istimewa Yogyakarta",132
+"34","IDN","Province","Dki Jakarta",165
+"35","IDN","Province","Gorontalo",570
+"36","IDN","Province","Jambi",87
+"37","IDN","Province","Jawa Barat",985
+"38","IDN","Province","Jawa Tengah",2088
+"39","IDN","Province","Jawa Timur",2677
+"40","IDN","Province","Kalimantan Barat",378
+"41","IDN","Province","Kalimantan Selatan",486
+"42","IDN","Province","Kalimantan Tengah",89
+"43","IDN","Province","Kalimantan Timur",319
+"44","IDN","Province","Kalimantan Utara",189
+"45","IDN","Province","Kepulauan Bangka Belitung",330
+"46","IDN","Province","Kepulauan Riau",418
+"47","IDN","Province","Lampung",711
+"48","IDN","Province","Maluku",1183
+"49","IDN","Province","Maluku Utara",1210
+"50","IDN","Province","Nusa Tenggara Barat",866
+"51","IDN","Province","Nusa Tenggara Timur",2124
+"52","IDN","Province","Papua",781
+"53","IDN","Province","Papua Barat",842
+"54","IDN","Province","Riau",467
+"55","IDN","Province","Sulawesi Barat",360
+"56","IDN","Province","Sulawesi Selatan",1502
+"57","IDN","Province","Sulawesi Tengah",1632
+"58","IDN","Province","Sulawesi Tenggara",1615
+"59","IDN","Province","Sulawesi Utara",1289
+"60","IDN","Province","Sumatera Barat",453
+"61","IDN","Province","Sumatera Selatan",95
+"62","IDN","Province","Sumatera Utara",1449
+"63","MOZ","Province","Cabo Delgado",17
+"64","MOZ","Province","Gaza",7
+"65","MOZ","Province","Inhambane",16
+"66","MOZ","Province","Maputo",8
+"67","MOZ","Province","Maputo City",7
+"68","MOZ","Province","Nampula",19
+"69","MOZ","Province","Sofala",9
+"70","MOZ","Province","Zambezia",16
+"71","PHL","Province","Abra",9
+"72","PHL","Province","Agusan del Norte",197
+"73","PHL","Province","Agusan del Sur",17
+"74","PHL","Province","Aklan",298
+"75","PHL","Province","Albay",478
+"76","PHL","Province","Antique",514
+"77","PHL","Province","Apayao",1
+"78","PHL","Province","Aurora",134
+"79","PHL","Province","Basilan",254
+"80","PHL","Province","Bataan",199
+"81","PHL","Province","Batanes",29
+"82","PHL","Province","Batangas",676
+"83","PHL","Province","Biliran",132
+"84","PHL","Province","Bohol",879
+"85","PHL","Province","Bukidnon",14
+"86","PHL","Province","Bulacan",219
+"87","PHL","Province","Cagayan",320
+"88","PHL","Province","Camarines Norte",238
+"89","PHL","Province","Camarines Sur",755
+"90","PHL","Province","Camiguin",58
+"91","PHL","Province","Capiz",269
+"92","PHL","Province","Catanduanes",309
+"93","PHL","Province","Cavite",452
+"94","PHL","Province","Cebu",1182
+"95","PHL","Province","Compostela Valley",43
+"96","PHL","Province","Davao del Norte",99
+"97","PHL","Province","Davao del Sur",339
+"98","PHL","Province","Davao Oriental",177
+"99","PHL","Province","Dinagat Islands",100
+"100","PHL","Province","Eastern Samar",552
+"101","PHL","Province","Guimaras",96
+"102","PHL","Province","Ilocos Norte",382
+"103","PHL","Province","Ilocos Sur",678
+"104","PHL","Province","Iloilo",1058
+"105","PHL","Province","Isabela",51
+"106","PHL","Province","La Union",514
+"107","PHL","Province","Laguna",8
+"108","PHL","Province","Lanao del Norte",313
+"109","PHL","Province","Lanao del Sur",131
+"110","PHL","Province","Leyte",1320
+"111","PHL","Province","Maguindanao",163
+"112","PHL","Province","Marinduque",217
+"113","PHL","Province","Masbate",546
+"114","PHL","Province","Metropolitan Manila",1646
+"115","PHL","Province","Misamis Occidental",442
+"116","PHL","Province","Misamis Oriental",471
+"117","PHL","Province","Negros Occidental",504
+"118","PHL","Province","Negros Oriental",471
+"119","PHL","Province","North Cotabato",1
+"120","PHL","Province","Northern Samar",406
+"121","PHL","Province","Nueva Ecija",6
+"122","PHL","Province","Nueva Vizcaya",1
+"123","PHL","Province","Occidental Mindoro",149
+"124","PHL","Province","Oriental Mindoro",350
+"125","PHL","Province","Palawan",429
+"126","PHL","Province","Pampanga",126
+"127","PHL","Province","Pangasinan",466
+"128","PHL","Province","Quezon",1042
+"129","PHL","Province","Quirino",6
+"130","PHL","Province","Rizal",2
+"131","PHL","Province","Romblon",219
+"132","PHL","Province","Samar",765
+"133","PHL","Province","Sarangani",107
+"134","PHL","Province","Siquijor",134
+"135","PHL","Province","Sorsogon",534
+"136","PHL","Province","South Cotabato",27
+"137","PHL","Province","Southern Leyte",494
+"138","PHL","Province","Sultan Kudarat",76
+"139","PHL","Province","Sulu",411
+"140","PHL","Province","Surigao del Norte",321
+"141","PHL","Province","Surigao del Sur",284
+"142","PHL","Province","Tawi-Tawi",203
+"143","PHL","Province","Zambales",227
+"144","PHL","Province","Zamboanga del Norte",509
+"145","PHL","Province","Zamboanga del Sur",479
+"146","PHL","Province","Zamboanga Sibugay",342
+"147","PLW","State","Aimeliik",1
+"148","PLW","State","Airai",1
+"149","PLW","State","Angaur",1
+"150","PLW","State","Hatohobei",1
+"151","PLW","State","Kayangel",1
+"152","PLW","State","Koror",1
+"153","PLW","State","Melekeok",1
+"154","PLW","State","Ngaraard",1
+"155","PLW","State","Ngarchelong",1
+"156","PLW","State","Ngardmau",1
+"157","PLW","State","Ngatpang",1
+"158","PLW","State","Ngchesar",1
+"159","PLW","State","Ngeremlengui",1
+"160","PLW","State","Ngiwal",1
+"161","PLW","State","Peleliu",1
+"162","PLW","State","Sonsorol",1
