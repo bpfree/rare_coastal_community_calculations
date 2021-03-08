@@ -161,12 +161,12 @@ phl_level1_polyline <- phl_level1_polyline %>%
 phl_10km <- st_buffer(phl_level0_polyline, 10000, singleSide = FALSE) # if TRUE --> positive = left, negative = right
 phl_prov_10km <- st_buffer(phl_level1_polyline, 10000, singleSide = FALSE) # if TRUE --> positive = left, negative = right
 
-### 9. Fix to only land area
+### 9a. Fix to only land area
 phl_10km_land <- st_intersection(phl_10km, phl_level0_wgs84)
 phl_prov_10km_coast <- st_intersection(phl_prov_10km, phl_level1_wgs84) %>%
   dplyr::select(GID_0)
 
-### remove the inland boundaries to keep it to the 
+### 9b. Remove the inland boundaries to keep it to the 
 phl_prov_10km_coast <- st_intersection(phl_prov_10km_coast, phl_10km_land)
 
 ### 10. Export data
